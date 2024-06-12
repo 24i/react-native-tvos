@@ -72,3 +72,8 @@ This is needed when used in conjuction with "react-native-screens": "3.13.1"
 Remove if updating it.
 Ticket related https://aferian.atlassian.net/browse/PRDSAPPSTV-751
 Ticket related https://aferian.atlassian.net/browse/PRDSAPPSRN-12649
+([link to PR](https://github.com/24i/react-native-tvos/pull/5))
+
+### ./ReactCommon/yoga/yoga/Yoga.cpp
+
+- Use of bitwise '|' with boolean operands ([link to PR](https://github.com/24i/react-native-tvos/pull/6))
